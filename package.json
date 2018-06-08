@@ -3,8 +3,9 @@
 	"displayName": "Save Without Format",
 	"description": "Save a file without auto formatting",
 	"icon": "icon.png",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "Gruntfuggly",
+	"repository": "https://github.com/Gruntfuggly/save-without-format",
 	"engines": {
 		"vscode": "^1.5.0"
 	},
