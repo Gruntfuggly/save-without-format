@@ -5,6 +5,7 @@ This simply allows you to save without triggering the auto format. Useful if you
 When called, the function takes note of the current "formatOnSave" setting, sets the flag to false, saves the file and then restores the original setting.
 
 The default keybinding is **Alt + Shift + S**
+On Mac: **CMD + Alt + S**
 
 *Note: Only the global setting is taken into account. Currently, language specific settings will still remain in play.*
 
